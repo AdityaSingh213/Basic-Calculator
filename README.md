@@ -2,6 +2,11 @@
 
 A simple web-based calculator built with HTML, CSS, and JavaScript.
 
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
 ## Features
 - Basic arithmetic operations: `+`, `-`, `*`, `/`
 - Clear and Equal buttons
